@@ -123,10 +123,6 @@ I'm **Durba Roy**, a passionate Computer Science & Engineering student who loves
   <a href="https://github.com/DURBAroy111">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  Add your LinkedIn below when ready -->
-  <!-- <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <!-- <a href="mailto:durbaroy97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> -->
@@ -134,7 +130,4 @@ I'm **Durba Roy**, a passionate Computer Science & Engineering student who loves
 
 ---
 
-<p align="center">
-  <i>"Code is not just a skill — it's a way of thinking."</i><br/>
-  <b>— Durba Roy</b>
-</p>
+
